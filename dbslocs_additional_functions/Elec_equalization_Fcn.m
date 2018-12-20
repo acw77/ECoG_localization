@@ -1,5 +1,4 @@
 function [Elec] = Elec_equalization_Fcn(cfg)
-
 % Elec_equialization_Fcn fills in the electrodes of a strip based on the
 % poistions of the corner electrodes.
 %
