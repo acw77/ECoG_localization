@@ -1,5 +1,5 @@
 % Subject_Path = '/Volumes/Nexus/Electrophysiology_Data/DBS_Intraop_Recordings/DBS30141/Strip_DBS30141';
-Subject_Path = '/Volumes/Nexus/DBS/DBS4079/Anatomy/Strip_DBS4079';
+Subject_Path = '\\136.142.16.9\Nexus\DBS\DBS3027\Anatomy\Strip_DBS3027';
 % Coregister and reslice the CT image (source) to the MRI image (reference)
 % cd(fullfile(Subject_Path,[Subject_ID,'_FS']));
 
